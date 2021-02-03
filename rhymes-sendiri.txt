@@ -1,0 +1,7 @@
+Ini adalah rhymes baru di repo lokal
+dibuat karena link pada contoh pembelajran
+sudah tidak aktif lagi
+
+secara prinsip sama saja
+menambahakan file baru ke github
+melalui git
